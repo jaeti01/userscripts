@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SOC Prime Title Changer
-// @namespace    https://tdm.socprime.com/
+// @namespace    https://github.com/jaeti01/userscripts/
 // @version      0.1
 // @description  A very simple script that changes page titles within SOC Prime platform to easier identify modules during a demo with multiple tabs open
 // @author       till.jaeger@gmail.com
