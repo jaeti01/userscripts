@@ -1,2 +1,2 @@
 # userscripts
-My place for user scripts
+My place for user scripts deployed in tampermonkey, greasemonke and the like
